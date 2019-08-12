@@ -4,6 +4,9 @@
     <loc>https://lubbockcodingacademy.com/</loc>
   </url>
   <url>
+    <loc>https://lubbockcodingacademy.com/web-development/</loc>
+  </url>
+  <url>
     <loc>https://lubbockcodingacademy.com/tuition/</loc>
   </url>
   <url>
@@ -26,8 +29,5 @@
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/new-student-referral/</loc>
-  </url>
-  <url>
-    <loc>https://lubbockcodingacademy.com/web-development/</loc>
   </url>
 </urlset>
