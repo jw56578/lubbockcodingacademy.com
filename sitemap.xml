@@ -4,7 +4,7 @@
     <loc>https://lubbockcodingacademy.com/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/web-development/</loc>
+    <loc>https://lubbockcodingacademy.com/web-dev/</loc>
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/tuition/</loc>
@@ -20,6 +20,9 @@
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/apply/</loc>
+  </url>
+  <url>
+    <loc>https://lubbockcodingacademy.com/web-development/</loc>
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/hire/</loc>
