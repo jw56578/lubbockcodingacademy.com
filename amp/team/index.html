@@ -319,6 +319,18 @@
                 </li>
               
                 <li>
+                  <a href="/team" class="text-blue hover-white">
+                    Our Team
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/instructors" class="text-blue hover-white">
+                    Our Instructors
+                  </a>
+                </li>
+              
+                <li>
                   <a href="/contact" class="text-blue hover-white">
                     Contact Us
                   </a>
@@ -517,6 +529,30 @@
                       
                         <li class="position-relative p-0 my-2">
                           <!-- htmllint preset="none" -->
+                          <a class="p-0" href="/team">
+                            <!-- htmllint preset="$previous" -->
+                            <span class="text-white hover-white">
+                              Our Team
+                            </span>
+                          </a>
+                        </li>
+                      
+                    
+                      
+                        <li class="position-relative p-0 my-2">
+                          <!-- htmllint preset="none" -->
+                          <a class="p-0" href="/instructors">
+                            <!-- htmllint preset="$previous" -->
+                            <span class="text-white hover-white">
+                              Our Instructors
+                            </span>
+                          </a>
+                        </li>
+                      
+                    
+                      
+                        <li class="position-relative p-0 my-2">
+                          <!-- htmllint preset="none" -->
                           <a class="p-0" href="/contact">
                             <!-- htmllint preset="$previous" -->
                             <span class="text-white hover-white">
@@ -563,8 +599,8 @@
 </header>
 <!-- ========== END HEADER ========== -->
 
-    <div class="container mt-90 pt-1 pb-5">
-  
+    
+<div class="container mt-90 pt-1 pb-5">
   <h2 class="d-lg-none font-family-alt font-weight-bold text-center display-5 my-10">
     Meet the Team
   </h2>
@@ -658,6 +694,74 @@
               </p>
           </div>
         
+          <div class="col-4 p-1">
+            <!-- htmllint preset="none" -->
+            <amp-img
+              width="200"
+              height="200"
+              layout="responsive"
+              class="img-fluid w-100 rounded photo-hover"
+              src="https://gravatar.com/avatar/44eead80aff2e04d881302a70f8d38c2?s=400&r=pg&d=retro"
+              alt="Jake Quintanilla"
+              title="Jake Quintanilla"
+              on="tap:AMP.setState({
+                selectedBio:'Jake is the Campus Director for Lubbock Coding Academy. Prior to helping establish our program, Jake worked in the Advertising industry working with clients such as Coca-Cola, Philips Electronics, Nike, MillerCoors, State Farm, and multiple other brands on their digital marketing platforms. His experience leans more towards Project/Product management with experience in Graphic/UX/UI Design. Along with serving as Lubbock Coding Academy&#8217;s Campus Director, Jake is working on a Dual-Graduate degree at Texas Tech University.',
+                selectedName:'Jake Quintanilla',
+                selectedTitle:'Campus Director'
+              }),bio-section.scrollTo(duration=200)"
+              tabindex="0"
+            ></amp-img>
+            <!-- htmllint preset="$previous" -->
+              <p class="p-1 text-center">
+                
+                  
+                    <a href="mailto:jake@lubbockcodingacademy.com" target="_blank" rel="noopener">
+                      <!-- htmllint preset="none" -->
+                      <i style="color: #303133" class="mx-1 fas fa-at" aria-hidden="true"></i>
+                      <!-- htmllint preset="$previous" -->
+                    </a>
+                  
+                
+              </p>
+          </div>
+        
+          <div class="col-4 p-1">
+            <!-- htmllint preset="none" -->
+            <amp-img
+              width="200"
+              height="200"
+              layout="responsive"
+              class="img-fluid w-100 rounded photo-hover"
+              src="https://gravatar.com/avatar/44396f0c1280071eec836cdb559e051d?s=400&r=pg&d=retro"
+              alt="Chris Troutman"
+              title="Chris Troutman"
+              on="tap:AMP.setState({
+                selectedBio:'Chris Troutman has worked professionally in digital publishing and web marketing since 2009 at large corporate organizations, independent marketing firms, and nonprofit state organizations. Specifically, he has experience as a digital project manager and site admin, managing web and social media projects for multiple fortune 500 companies as well as overseeing the content management of multiple large public and client facing web sites. Troutman’s background is in journalism, where he was an accomplished freelance writer, weekly local news journalist, and eventually started the video blog BeerTownAustin and then the quarterly print magazine, Austin Beer Guide. Troutman possesses a MFA in Mass Comm and Journalism with an emphasis in new media.',
+                selectedName:'Chris Troutman',
+                selectedTitle:'Director of Operations'
+              }),bio-section.scrollTo(duration=200)"
+              tabindex="0"
+            ></amp-img>
+            <!-- htmllint preset="$previous" -->
+              <p class="p-1 text-center">
+                
+                  
+                    <a href="mailto:ctroutman@lubbockcodingacademy.com" target="_blank" rel="noopener">
+                      <!-- htmllint preset="none" -->
+                      <i style="color: #303133" class="mx-1 fas fa-at" aria-hidden="true"></i>
+                      <!-- htmllint preset="$previous" -->
+                    </a>
+                  
+                    <a href="https://www.linkedin.com/in/christroutman/" target="_blank" rel="noopener">
+                      <!-- htmllint preset="none" -->
+                      <i style="color: #0077b5" class="mx-1 fab fa-linkedin" aria-hidden="true"></i>
+                      <!-- htmllint preset="$previous" -->
+                    </a>
+                  
+                
+              </p>
+          </div>
+        
       </div>
     </div>
     <div class="py-10 col-12 d-md-none" id="bio-section"></div>
@@ -670,7 +774,7 @@
         <span class="d-block font-weight-bold text-center" [text]="selectedName">About LCA</span>
         <small class="d-block font-weight-bold text-center mb-3" [text]="selectedTitle"></small>
         <span [text]="selectedBio">
-          Austin Coding Academy is the only locally-owned and operated coding school serving Austin, TX. Founded in 2014, Austin Coding Academy was built on the principle of accessibility, as an alternative to costly, immersive coding bootcamps. ACA’s part-time, affordable, in-person classes have served hundreds of people here in Austin and continue to produce job-ready software developers. As Austin Coding Academy continues to grow, our unique and talented team is committed to serving our students, partners, tech companies, and the local community. Meet the people that make Austin Coding Academy, Austin’s premier source for tech talent and education.
+          Lubbock Coding Academy is the first in-person web development school serving Lubbock, TX and the surrounding areas. Founded in 2018, Lubbock Coding Academy is a partnership between the Lubbock Economic Development Alliance, Texas Tech University, South Plains College, and Austin Coding Academy. Lubbock Coding Academy is built on the principle of accessibility and access to practical technical education. LCA’s part-time, affordable, in-person classes have already served more than 50 people here in Lubbock. As Lubbock Coding Academy continues to grow, our unique and talented team is committed to serving our students, partners, tech companies, and the local community. Meet the people that make Lubbock Coding Academy, Lubbock's premier source for tech talent and education.
         </span>
         <!-- htmllint preset="$previous" -->
       </p>
@@ -772,18 +876,18 @@
               <div class="col-6 my-2">
                 <a
                   class="text-white hover-white"
-                  href="https://www.eventbrite.com/o/lubbock-coding-academy-18046524539"
+                  href="/tutoring"
                 >
-                  Upcoming Events
+                  Tutoring
                 </a>
               </div>
             
               <div class="col-6 my-2">
                 <a
                   class="text-white hover-white"
-                  href="/hire"
+                  href="/events"
                 >
-                  Hire a Graduate
+                  Upcoming Events
                 </a>
               </div>
             
@@ -793,6 +897,15 @@
                   href="/instructor-apply"
                 >
                   Become an Instructor
+                </a>
+              </div>
+            
+              <div class="col-6 my-2">
+                <a
+                  class="text-white hover-white"
+                  href="/new-student-referral"
+                >
+                  Student Referral
                 </a>
               </div>
             
