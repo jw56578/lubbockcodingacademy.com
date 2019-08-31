@@ -22,9 +22,6 @@
     <loc>https://lubbockcodingacademy.com/apply/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/web-development/</loc>
-  </url>
-  <url>
     <loc>https://lubbockcodingacademy.com/tutoring/</loc>
   </url>
   <url>
@@ -32,5 +29,8 @@
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/new-student-referral/</loc>
+  </url>
+  <url>
+    <loc>https://lubbockcodingacademy.com/web-development/</loc>
   </url>
 </urlset>
