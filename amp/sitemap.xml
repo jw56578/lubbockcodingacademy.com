@@ -31,12 +31,12 @@
     <loc>https://lubbockcodingacademy.com/web-development/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/tutoring/</loc>
-  </url>
-  <url>
     <loc>https://lubbockcodingacademy.com/instructor-apply/</loc>
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/new-student-referral/</loc>
+  </url>
+  <url>
+    <loc>https://lubbockcodingacademy.com/tutoring/</loc>
   </url>
 </urlset>
