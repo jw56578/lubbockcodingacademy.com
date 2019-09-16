@@ -10,9 +10,6 @@
     <loc>https://lubbockcodingacademy.com/tuition/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/corporate-training/</loc>
-  </url>
-  <url>
     <loc>https://lubbockcodingacademy.com/events/</loc>
   </url>
   <url>
@@ -44,5 +41,8 @@
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/new-student-referral/</loc>
+  </url>
+  <url>
+    <loc>https://lubbockcodingacademy.com/enterprise-training/</loc>
   </url>
 </urlset>
