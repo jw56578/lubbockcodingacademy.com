@@ -4,10 +4,10 @@
     <loc>https://lubbockcodingacademy.com/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/tuition/</loc>
+    <loc>https://lubbockcodingacademy.com/courses/web-development/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/courses/web-development/</loc>
+    <loc>https://lubbockcodingacademy.com/tuition/</loc>
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/corporate-training/</loc>
@@ -19,9 +19,6 @@
     <loc>https://lubbockcodingacademy.com/faq/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/team/</loc>
-  </url>
-  <url>
     <loc>https://lubbockcodingacademy.com/instructors/</loc>
   </url>
   <url>
@@ -29,6 +26,9 @@
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/apply/</loc>
+  </url>
+  <url>
+    <loc>https://lubbockcodingacademy.com/team/</loc>
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/tutoring/</loc>
