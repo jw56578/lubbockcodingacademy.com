@@ -25,10 +25,10 @@
     <loc>https://austincodingacademy.com/forum/c/Intro-To-Web-101</loc>
   </url>
   <url>
-    <loc>https://austincodingacademy.com/forum/c/JavaScript-Full-Stack-311</loc>
+    <loc>https://austincodingacademy.com/forum/c/JavaScript-Full-Stack-211</loc>
   </url>
   <url>
-    <loc>https://austincodingacademy.com/forum/c/JavaScript-Full-Stack-211</loc>
+    <loc>https://austincodingacademy.com/forum/c/JavaScript-Full-Stack-311</loc>
   </url>
   <url>
     <loc>https://austincodingacademy.com/forum/c/C-Net-221</loc>
@@ -286,96 +286,6 @@
     <loc>https://austincodingacademy.com/forum/t/great-intro-resource/242</loc>
   </url>
   <url>
-    <loc>https://austincodingacademy.com/forum/t/about-the-311-javascript-full-stack-category/158</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/cant-return-an-object-in-reducer-react-redux/1231</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/creating-a-private-route-function-for-react-router/1205</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/deploying-static-app-gh-pages/1194</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/how-to-change-the-spinning-logo-on-the-create-react-app/1054</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/broken-brew-install-yarn/967</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/sequelize-commands-not-working/969</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/whats-the-difference-between-component-and-purecomponent/970</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/createdb-in-postgresql-not-found/968</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/interesting-web-apis/699</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/advanced-grading-policy/330</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/advanced-office-hours/327</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/communication-with-instructor-and-tas/623</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/apis-without-authentication/440</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/react-tutorials-and-resources/228</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/redux-video-series/521</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/day-1-class-review/329</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/checkpoint-2-walkthrough/441</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/checkpoint-2-project/428</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/class-day-12-review/427</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/checkpoint-1-walkthrough-netflix-clone/416</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/class-day-10-review/415</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/class-day-9-review/411</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/class-day-8-review/404</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/advanced-redux-action-practice-walkthough/406</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/class-day-7-review/400</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/day-6-class-review/392</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/notes-comments-example-for-redux-address-book/393</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/projects-for-class-day-5/384</loc>
-  </url>
-  <url>
-    <loc>https://austincodingacademy.com/forum/t/advanced-graded-projects/375</loc>
-  </url>
-  <url>
     <loc>https://austincodingacademy.com/forum/t/about-the-211-javascript-full-stack-category/32</loc>
   </url>
   <url>
@@ -464,6 +374,96 @@
   </url>
   <url>
     <loc>https://austincodingacademy.com/forum/t/supplemental-online-material/116</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/about-the-311-javascript-full-stack-category/158</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/cant-return-an-object-in-reducer-react-redux/1231</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/creating-a-private-route-function-for-react-router/1205</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/deploying-static-app-gh-pages/1194</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/how-to-change-the-spinning-logo-on-the-create-react-app/1054</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/broken-brew-install-yarn/967</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/sequelize-commands-not-working/969</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/whats-the-difference-between-component-and-purecomponent/970</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/createdb-in-postgresql-not-found/968</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/interesting-web-apis/699</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/advanced-grading-policy/330</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/advanced-office-hours/327</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/communication-with-instructor-and-tas/623</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/apis-without-authentication/440</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/react-tutorials-and-resources/228</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/redux-video-series/521</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/day-1-class-review/329</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/checkpoint-2-walkthrough/441</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/checkpoint-2-project/428</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/class-day-12-review/427</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/checkpoint-1-walkthrough-netflix-clone/416</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/class-day-10-review/415</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/class-day-9-review/411</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/class-day-8-review/404</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/advanced-redux-action-practice-walkthough/406</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/class-day-7-review/400</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/day-6-class-review/392</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/notes-comments-example-for-redux-address-book/393</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/projects-for-class-day-5/384</loc>
+  </url>
+  <url>
+    <loc>https://austincodingacademy.com/forum/t/advanced-graded-projects/375</loc>
   </url>
   <url>
     <loc>https://austincodingacademy.com/forum/t/about-the-221-c-net-category/38</loc>
