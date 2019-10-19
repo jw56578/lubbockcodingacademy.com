@@ -13,9 +13,6 @@
     <loc>https://lubbockcodingacademy.com/events/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/faq/</loc>
-  </url>
-  <url>
     <loc>https://lubbockcodingacademy.com/team/</loc>
   </url>
   <url>
@@ -32,6 +29,9 @@
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/instructor-apply/</loc>
+  </url>
+  <url>
+    <loc>https://lubbockcodingacademy.com/faq/</loc>
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/grads/</loc>
