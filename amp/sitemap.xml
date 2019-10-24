@@ -10,9 +10,6 @@
     <loc>https://lubbockcodingacademy.com/tuition/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/events/</loc>
-  </url>
-  <url>
     <loc>https://lubbockcodingacademy.com/faq/</loc>
   </url>
   <url>
@@ -23,6 +20,9 @@
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/contact/</loc>
+  </url>
+  <url>
+    <loc>https://lubbockcodingacademy.com/events/</loc>
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/apply/</loc>
