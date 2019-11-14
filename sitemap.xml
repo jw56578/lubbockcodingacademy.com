@@ -34,9 +34,6 @@
     <loc>https://lubbockcodingacademy.com/instructor-apply/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/grads/</loc>
-  </url>
-  <url>
     <loc>https://lubbockcodingacademy.com/hire/</loc>
   </url>
   <url>
@@ -44,5 +41,8 @@
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/enterprise-training/</loc>
+  </url>
+  <url>
+    <loc>https://lubbockcodingacademy.com/grads/</loc>
   </url>
 </urlset>
