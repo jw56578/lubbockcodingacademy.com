@@ -399,7 +399,9 @@
 
   <!-- Filters -->
   
-    <h4 class="pt-5">Filters</h4>
+    <h4 class="pt-5">
+      Filters
+    </h4>
     <div class="d-flex flex-row justify-content-around pb-5">
       <!-- Location -->
       <div class="w-50">
@@ -409,15 +411,14 @@
         <!-- htmllint preset="none" -->
         <select on="change:AMP.setState({ location: event.value })" tabindex="0" class="form-control">
         <!-- htmllint preset="$previous" -->
+        
           <option value="any" selected="">
             Select Location
           </option>
-          <option value="austinNorth">
-            North Campus
+          <option value="southPlains">
+            South Plains Community College
           </option>
-          <option value="austinDowntown">
-            Downtown Campus
-          </option>
+        
         </select>
       </div>
 
@@ -562,7 +563,6 @@
   <!-- End Tutors -->
   </div>
 </div>
-
 
 
     
