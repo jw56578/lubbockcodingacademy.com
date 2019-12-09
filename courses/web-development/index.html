@@ -128,9 +128,11 @@
 
 <script async="" custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
 
+<script async="" custom-element="amp-lightbox" src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js"></script>
+
+
 <script async="" custom-element="amp-recaptcha-input" src="https://cdn.ampproject.org/v0/amp-recaptcha-input-0.1.js"></script>
 
-<script async="" custom-element="amp-lightbox" src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js"></script>
 
 
 <script async="" custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
@@ -530,7 +532,7 @@
         Course Guide
       </a>
     </div>
-      <amp-lightbox id="course-guide-lightbox" class="lightbox text-white mt-10 mt-sm-0 pb-8 pb-sm-0 pt-6 pt-sm-0 px-4 px-sm-0" layout="nodisplay" scrollable="" on="tap:course-guide-lightbox.close" tabindex="0" role="dialog">
+      <amp-lightbox id="course-guide-lightbox" class="lightbox text-white mt-10 mt-sm-0 pb-8 pb-sm-0 pt-6 pt-sm-0 px-4 px-sm-0" layout="nodisplay" scrollable="" on="tap:course-guide-lightbox.close" tabindex="-1" role="dialog">
         
 
 <div class="row d-flex justify-content-center">
@@ -553,7 +555,7 @@
       a job in coding after you graduate.
     
     </p>
-    <div class="row" on="tap:course-guide-lightbox.open">
+    <div class="row" on="tap:course-guide-lightbox.open" tabindex="-1" role="form">
       <!-- Image -->
       <div class="d-flex flex-column justify-content-center mb-7 col-xs-11 col-sm-11 col-md-5 col-lg-5 mx-auto">
         <!-- htmllint preset="none" -->
@@ -2439,33 +2441,34 @@
 </footer>
 <!-- ========== END FOOTER ========== -->
 
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "LocalBusiness",
-    "name": "Lubbock Coding Academy",
-    "url": "https://lubbockcodingacademy.com",
-    "priceRange": "$2990",
-    "logo": "https://lubbockcodingacademy.com/assets/images/logo-lubbockcodingacademy.png",
-    "image": {
-      "@type": "ImageObject",
-      "url": "https://lubbockcodingacademy.com/assets/images/header-index.jpg"
-    },
-    "telephone": "806-905-5021",
-    "address": [
-      
-        {
-          "@type": "PostalAddress",
-          "streetAddress": "3907 Avenue Q",
-          "addressLocality": "Lubbock",
-          "addressRegion": "TX",
-          "postalCode": "10019",
-          "addressCountry": "US"
-        }
-      
-    ]
-  }
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Lubbock Coding Academy",
+      "url": "https://lubbockcodingacademy.com",
+      "priceRange": "$2990",
+      "logo": "https://lubbockcodingacademy.com/assets/images/logo-lubbockcodingacademy.png",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://lubbockcodingacademy.com/assets/images/header-index.jpg"
+      },
+      "telephone": "806-905-5021",
+      "address": [
+        
+          {
+            "@type": "PostalAddress",
+            "streetAddress": "3907 Avenue Q",
+            "addressLocality": "Lubbock",
+            "addressRegion": "TX",
+            "postalCode": "10019",
+            "addressCountry": "US"
+          }
+        
+      ]
+    }
   </script>
+
 
   </body>
 </html>
