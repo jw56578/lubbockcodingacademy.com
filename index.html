@@ -574,11 +574,68 @@
           Learn More
         </a>
         
-          <!-- htmllint preset="none" -->
-<a class="btn cta-gradient text-white hover-white btn-round " href="/apply">
+          <a class="btn cta-gradient text-white hover-white btn-round mr-2 d-block d-md-none" on="tap:testimonial-lightbox" tabindex="0" rel="noopener">
+            <span class="hover-white text-white">
+              Testimonial
+            </span>
+          </a>
+          <!-- Lightbox Testimonial Video -->
+          
+          <amp-lightbox id="testimonial-lightbox" class="lightbox" layout="nodisplay" on="tap:testimonial-lightbox.close" tabindex="0" role="dialog">
+            <div class="w-75 w-sm-50 mx-auto mt-100" on="tap:testimonial-lightbox.open" tabindex="0" role="button">
+              <amp-youtube data-videoid="" width="480" height="270" tabindex="0" role="presentation" layout="responsive" title="" autoplay="">
+              </amp-youtube>
+              <!-- CTA Form -->
+              <form action-xhr="https://4runw89p71.execute-api.us-west-1.amazonaws.com/latest/hubspot/4009818/21e581ad-e0aa-47b4-8c4c-d1e976a973da" target="_top" method="POST" tabindex="-1" role="form" class="mt-2 w-100">
+                <input name="school" type="hidden" value="Lubbock Coding Academy">
+                <input name="page_name" type="hidden" value="Lubbock Coding Academy | Learn to Code, Change Your Life">
+                <input name="callrail_company_id" type="hidden" value="740142126">
+
+                <div class="form-container d-flex flex-column align-items-center">
+                  <div class="d-flex justify-content-between w-100">
+                    <div class="w-50 mr-2">
+                      <label class="text-white" for="first-name">First Name:</label>
+                      <input id="first-name" class="form-control" name="firstname" type="text" placeholder="First Name" required="" data-msg="Please enter your first name." data-error-class="u-has-error" data-success-class="u-has-success">
+                    </div>
+                    <div class="w-50 ml-2">
+                      <label class="text-white" for="email">Last Name:</label>
+                      <input id="last-name" class="form-control" name="lastname" type="text" placeholder="Last Name" required="" data-msg="Please enter your last name." data-error-class="u-has-error" data-success-class="u-has-success">
+                    </div>
+                  </div>
+                  <div class="mt-2 d-flex justify-content-between w-100">
+                    <div class="w-50 mr-2">
+                      <label class="text-white" for="email">Email Address:</label>
+                      <input id="email" class="form-control" name="email" type="email" placeholder="Email" required="" data-msg="Please enter a valid email address." data-error-class="u-has-error" data-success-class="u-has-success">
+                    </div>
+                    <div class="w-50 ml-2">
+                      <label class="text-white" for="phone">Phone Number:</label>
+                      <input id="phone" class="form-control" name="phone" type="phone" placeholder="Phone Number" required="" data-msg="Please enter a valid phone number." data-error-class="u-has-error" data-success-class="u-has-success">
+                    </div>
+                  </div>
+                  <button type="submit" class="btn btn-round btn-sm-block text-white bg-primary-dark hover-white mt-4">
+                    Get in Touch
+                  </button>
+                  <div class="col-12">
+                    
+
+<!-- htmllint preset="none" -->
+<p class="small text-center  ">
+  By submitting your information, you agree to our <a class="" href="https://discourse.austincodingacademy.com/tos">Terms of Service</a> and <a class="" href="https://discourse.austincodingacademy.com/privacy">Privacy Policy</a>, and to receive marketing communications from Lubbock Coding Academy.
+</p>
+<amp-recaptcha-input layout="nodisplay" name="recaptcha_response" data-sitekey="6LfApY8UAAAAADYQCJkSM5EQUdx57tzrMp1XFUm6" data-action="homepage">
+</amp-recaptcha-input>
 <!-- htmllint preset="$previous" -->
-  <span class="hover-white text-white">Apply Now</span>
-</a>
+<p class="small text-muted text-center">
+  This site is protected by reCAPTCHA and the Google
+  <a href="https://policies.google.com/privacy">Privacy Policy</a> and
+  <a href="https://policies.google.com/terms">Terms of Service</a> apply.
+</p>
+
+                  </div>
+                </div>
+              </form>
+            </div>
+          </amp-lightbox>
         
       </div>
     </div>
