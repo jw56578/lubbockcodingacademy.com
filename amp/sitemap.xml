@@ -10,10 +10,10 @@
     <loc>https://lubbockcodingacademy.com/tuition/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/events/</loc>
+    <loc>https://lubbockcodingacademy.com/enterprise-training/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/enterprise-training/</loc>
+    <loc>https://lubbockcodingacademy.com/events/</loc>
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/faq/</loc>
@@ -55,12 +55,12 @@
     <loc>https://lubbockcodingacademy.com/hire/Justin-Wesley/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/hire/Steven-Schoor/</loc>
-  </url>
-  <url>
     <loc>https://lubbockcodingacademy.com/hire/Tristan-Holaday/</loc>
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/hire/sky-mendes/</loc>
+  </url>
+  <url>
+    <loc>https://lubbockcodingacademy.com/hire/Steven-Schoor/</loc>
   </url>
 </urlset>
