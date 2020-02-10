@@ -130,6 +130,8 @@
 <script async="" custom-element="amp-lightbox" src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js"></script>
 
 
+<script async="" custom-element="amp-recaptcha-input" src="https://cdn.ampproject.org/v0/amp-recaptcha-input-0.1.js"></script>
+
 
 
 
@@ -860,6 +862,23 @@
           <button class="btn btn-round text-white hover-white bg-primary-dark" type="Submit">
             Submit
           </button>
+        </div>
+        <div class="col-12">
+          
+
+<!-- htmllint preset="none" -->
+<p class="small text-center  ">
+  By submitting your information, you agree to our <a class="" href="https://discourse.austincodingacademy.com/tos">Terms of Service</a> and <a class="" href="https://discourse.austincodingacademy.com/privacy">Privacy Policy</a>, and to receive marketing communications from Lubbock Coding Academy.
+</p>
+<amp-recaptcha-input layout="nodisplay" name="recaptcha_response" data-sitekey="6LfApY8UAAAAADYQCJkSM5EQUdx57tzrMp1XFUm6" data-action="homepage">
+</amp-recaptcha-input>
+<!-- htmllint preset="$previous" -->
+<p class="small text-muted text-center">
+  This site is protected by reCAPTCHA and the Google
+  <a href="https://policies.google.com/privacy">Privacy Policy</a> and
+  <a href="https://policies.google.com/terms">Terms of Service</a> apply.
+</p>
+
         </div>
       </div>
     </form>
