@@ -13,10 +13,10 @@
     <loc>https://lubbockcodingacademy.com/enterprise-training/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/faq/</loc>
+    <loc>https://lubbockcodingacademy.com/events/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/events/</loc>
+    <loc>https://lubbockcodingacademy.com/faq/</loc>
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/team/</loc>
@@ -46,9 +46,6 @@
     <loc>https://lubbockcodingacademy.com/grads/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/hire/</loc>
-  </url>
-  <url>
     <loc>https://lubbockcodingacademy.com/new-student-referral/</loc>
   </url>
   <url>
@@ -62,6 +59,9 @@
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/blog/web-development/4-ways-a-coding-bootcamp-is-worth-it/</loc>
+  </url>
+  <url>
+    <loc>https://lubbockcodingacademy.com/hire/</loc>
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/hire/John-Cherry/</loc>
