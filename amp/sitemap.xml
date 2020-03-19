@@ -4,9 +4,6 @@
     <loc>https://lubbockcodingacademy.com/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/courses/web-development/</loc>
-  </url>
-  <url>
     <loc>https://lubbockcodingacademy.com/tuition/</loc>
   </url>
   <url>
@@ -22,6 +19,9 @@
     <loc>https://lubbockcodingacademy.com/team/</loc>
   </url>
   <url>
+    <loc>https://lubbockcodingacademy.com/courses/web-development/</loc>
+  </url>
+  <url>
     <loc>https://lubbockcodingacademy.com/instructors/</loc>
   </url>
   <url>
@@ -32,6 +32,9 @@
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/apply/</loc>
+  </url>
+  <url>
+    <loc>https://lubbockcodingacademy.com/course-guide/</loc>
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/tutoring/</loc>
@@ -67,9 +70,6 @@
     <loc>https://lubbockcodingacademy.com/hire/Josephine-Ellis/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/hire/Justin-Wesley/</loc>
-  </url>
-  <url>
     <loc>https://lubbockcodingacademy.com/hire/Steven-Schoor/</loc>
   </url>
   <url>
@@ -79,6 +79,6 @@
     <loc>https://lubbockcodingacademy.com/hire/sky-mendes/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/course-guide/</loc>
+    <loc>https://lubbockcodingacademy.com/hire/Justin-Wesley/</loc>
   </url>
 </urlset>
