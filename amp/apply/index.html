@@ -859,7 +859,7 @@
   
 
 <!-- htmllint preset="$previous" -->
-          <div class="col-12 mb-4">
+          <div class="col-12 col-md-6 mb-4">
             
 
 <label class="form-label" for="location">Preferred Location and Start Date? <span class="text-red-a">*</span></label>
@@ -876,10 +876,10 @@
   
 </select>
           </div>
-          <div class="col-12 mb-4">
+          <div class="col-12 col-md-6 mb-4">
             
 <label class="form-label" for="payment-plan">How would you like to reserve your seat?<span class="text-red-a">*</span></label>
-<select class="form-control" id="payment-plan" name="payment_plan">
+<select class="form-control" id="payment-plan" name="payment_plan" required="">
   <option value="" disabled="" selected="">
     Please Select
   </option>
@@ -900,7 +900,26 @@
   
 </select>
           </div>
-          <div class="col-12 mb-4">
+          <input name="page_name" type="hidden" value="Start Your Application | Apply Now at Lubbock Coding Academy">
+<input name="callrail_company_id" type="hidden" value="740142126">
+
+<!-- htmllint preset="none" -->
+
+  
+    <div class="mb-3 mb-sm-6 col-12 col-sm-12 col-md-6 ">
+      <div class="form-group">
+        <label for="coupon_code" class="form-label">
+          Coupon Code
+          
+        </label>
+        <small></small>
+        <input type="text" id="coupon_code" class="form-control" name="coupon_code" placeholder="Coupon Code" aria-label="Coupon Code">
+      </div>
+    </div>
+  
+
+<!-- htmllint preset="$previous" -->
+          <div class="col-12 col-md-6 mb-4">
             
 
 <!-- Input -->
