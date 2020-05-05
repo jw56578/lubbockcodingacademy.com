@@ -22,6 +22,9 @@
     <loc>https://lubbockcodingacademy.com/enterprise-training/</loc>
   </url>
   <url>
+    <loc>https://lubbockcodingacademy.com/contact/</loc>
+  </url>
+  <url>
     <loc>https://lubbockcodingacademy.com/blog/</loc>
   </url>
   <url>
@@ -34,9 +37,6 @@
     <loc>https://lubbockcodingacademy.com/course-guide/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/contact/</loc>
-  </url>
-  <url>
     <loc>https://lubbockcodingacademy.com/tutoring/</loc>
   </url>
   <url>
@@ -46,7 +46,13 @@
     <loc>https://lubbockcodingacademy.com/grads/</loc>
   </url>
   <url>
+    <loc>https://lubbockcodingacademy.com/hire/</loc>
+  </url>
+  <url>
     <loc>https://lubbockcodingacademy.com/new-student-referral/</loc>
+  </url>
+  <url>
+    <loc>https://lubbockcodingacademy.com/faq/</loc>
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/blog/article/myspace-and-the-coding-legacy-it-left-behind/</loc>
@@ -61,12 +67,6 @@
     <loc>https://lubbockcodingacademy.com/blog/web-development/4-ways-a-coding-bootcamp-is-worth-it/</loc>
   </url>
   <url>
-    <loc>https://lubbockcodingacademy.com/hire/</loc>
-  </url>
-  <url>
-    <loc>https://lubbockcodingacademy.com/faq/</loc>
-  </url>
-  <url>
     <loc>https://lubbockcodingacademy.com/hire/John-Cherry/</loc>
   </url>
   <url>
@@ -76,12 +76,12 @@
     <loc>https://lubbockcodingacademy.com/hire/Justin-Wesley/</loc>
   </url>
   <url>
+    <loc>https://lubbockcodingacademy.com/hire/Steven-Schoor/</loc>
+  </url>
+  <url>
     <loc>https://lubbockcodingacademy.com/hire/Tristan-Holaday/</loc>
   </url>
   <url>
     <loc>https://lubbockcodingacademy.com/hire/sky-mendes/</loc>
-  </url>
-  <url>
-    <loc>https://lubbockcodingacademy.com/hire/Steven-Schoor/</loc>
   </url>
 </urlset>
